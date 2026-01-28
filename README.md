@@ -59,6 +59,4 @@ This project demonstrates real-world usage of **Redux Toolkit** for handling sha
 
 => User authentication and authorization
 
-=> Invoice PDF generation and download
-
 => Persistent storage using a database or local storage
