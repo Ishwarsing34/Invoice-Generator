@@ -42,6 +42,14 @@ This project demonstrates real-world usage of **Redux Toolkit** for handling sha
 - Reduces boilerplate compared to traditional Redux
 - Ensures predictable and debuggable state updates
 
+- 🔮 Future Enhancements
+
+=> Backend integration for data persistence
+
+=> User authentication and authorization
+
+=> Generated Invoice Directly Send to Client's Email
+
 **State managed by Redux Toolkit:**
 ```js
 {
@@ -53,10 +61,5 @@ This project demonstrates real-world usage of **Redux Toolkit** for handling sha
 
 
 
-🔮 Future Enhancements
 
-=> Backend integration for data persistence
 
-=> User authentication and authorization
-
-=> Persistent storage using a database or local storage
